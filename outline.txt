@@ -1,5 +1,5 @@
 Chapter 1
 - We meet Nick, Tom, Daisy and Jordan
--More work done on Chapter 1
-More and More on chapter 1
-Split Chapter 1 into 2 pieces
+- More work done on Chapter 1
+- More and More on chapter 1
+- Split Chapter 1 into 2 pieces
